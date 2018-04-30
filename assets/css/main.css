@@ -1574,7 +1574,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #88E80A !important;
+			color: #795eb1 !important;
 		}
 
 	strong, b {
@@ -1727,7 +1727,7 @@
 	}
 
 	header.major h2 {
-		color: #88E80A;
+		color: #FFFFFF;
 		font-size: 3.5em;
 	}
 
@@ -1790,7 +1790,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #88E80A;
+			border-color: #795eb1;
 		}
 
 	.select-wrapper {
@@ -1900,7 +1900,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #88E80A;
+			border-color: #795eb1;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2098,7 +2098,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #88E80A;
+					background: #795eb1;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -2385,7 +2385,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #88E80A;
+			background-color: #795eb1;
 			color: #ffffff !important;
 		}
 
@@ -2455,7 +2455,7 @@
 /* Header */
 
 	#header {
-		background: #88E80A;
+		background: #795eb1;
 		color: #777;
 		height: 100%;
 		position: fixed;
@@ -2466,15 +2466,15 @@
 	}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #777;
+			color: #fff;
 		}
 
 			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
-				color: #777;
+				color: #fff;
 			}
 
 		#header header p {
-			color: #777;
+			color: #fff;
 		}
 
 		#header a {
@@ -2502,7 +2502,7 @@
 			}
 
 			#header > header p {
-				color: #777;
+				color: #fff;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2520,7 +2520,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: 777;
+					color: #fff;
 				}
 
 		#header > nav ul {
@@ -2530,7 +2530,7 @@
 		}
 
 			#header > nav ul li {
-				border-top: solid 2px #88E80A;
+				border-top: solid 2px #795eb1;
 				display: block;
 				padding: 0;
 			}
@@ -2541,7 +2541,7 @@
 					-ms-transition: none;
 					transition: none;
 					border: 0;
-					color: #777 !important;
+					color: #fff !important;
 					display: block;
 					padding: 0.85em 0;
 					text-decoration: none;
@@ -2833,7 +2833,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #88E80A;
+						background: #795eb1;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
