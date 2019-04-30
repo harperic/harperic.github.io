@@ -6,6 +6,14 @@ plugins:
   - jekyll-github-metadata
   - jemoji
 
+title: Eric S. Harper, PhD
+
+description: Machine Learning, Optics, Computational Materials Science, Statistical Mechanics
+
+bio: Machine Learning, Optics, Computational Materials Science, Statistical Mechanics
+
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
 permalink: /:year/:month/:day/:title/
 
 defaults:
@@ -45,6 +53,10 @@ projects:
   # youtube: your_username
 
 topics:
+  - name: Machine Learning/Artificial Intelligence
+  - name: Computational Materials Science
+  - name: Python
+  - name: Emacs
   - name: CSS
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
